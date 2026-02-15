@@ -1,0 +1,15 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mavi arka plan -->
+  <rect width="1024" height="1024" fill="#4285F4"/>
+  
+  <!-- Icon içeriği buraya gelecek -->
+  <!-- Mevcut icon'unuzu buraya yerleştirin -->
+  
+  <!-- Örnek: Beyaz ev/pencereli yapı -->
+  <g transform="translate(200, 200) scale(0.6)">
+    <!-- Buraya mevcut icon'unuzun SVG versiyonunu ekleyin -->
+    <!-- Şimdilik placeholder -->
+    <rect x="100" y="100" width="400" height="300" fill="white" rx="20"/>
+    <circle cx="300" cy="250" r="80" fill="#4285F4"/>
+  </g>
+</svg>
