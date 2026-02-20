@@ -1,23 +1,26 @@
-# GarageLoop (Source – Academic)
+# GarageLoop
 
-A Flutter app for local item sharing: give and claim items in your community, reduce waste, keep things in use.
+## Overview
+GarageLoop is a community-driven mobile application designed to help users share and discover useful items locally, promoting sustainability and reducing waste.
 
-This repository is a **source-only** version for academic or portfolio use. It does not include:
+## Key Features
+- User-friendly mobile interface
+- Item listing & browsing system
+- Real-time interactions
+- Community-based sharing model
 
-- Platform projects (`android/`, `ios/`)
-- Firebase config files or credentials
-- Backend / Cloud Functions
-- Environment or secret files
+## Tech Stack
+- Flutter
+- Firebase
+- Cloud Firestore
 
-To run locally you need to add your own Firebase project and configuration (e.g. via FlutterFire CLI or manual setup). Ad units and other IDs in the code are placeholders.
+## Development Highlights
+- Designed and developed as a real-world production application
+- Implemented modern mobile UI/UX principles
+- Integrated Firebase backend services
 
-## Stack
+## Status
+Published on the Apple App Store (US region)
 
-- Flutter (Dart)
-- Firebase (Auth, Firestore, Storage, Messaging, Analytics, Crashlytics)
-- Provider for state management
-- Google Maps / Apple Maps, in-app purchases, ads (AdMob)
-
-## License
-
-For academic / portfolio display only.
+## Links
+App Store: (link eklenecek)
