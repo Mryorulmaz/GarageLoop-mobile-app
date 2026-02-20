@@ -43,5 +43,5 @@ Published on the Apple App Store (US region)
 Google Play release: in progress
 
 ## Links
-App Store: (link eklenecek)
+App Store: https://apps.apple.com/app/id6754462311 
 Google Play: (link eklenecek)
