@@ -10,7 +10,7 @@ GarageLoop is a community-driven mobile application designed to help users share
 - Community-based sharing model
 
 ## Tech Stack
-- Flutter
+- Flutter (Dart)
 - Firebase
 - Cloud Firestore
 
@@ -18,9 +18,16 @@ GarageLoop is a community-driven mobile application designed to help users share
 - Designed and developed as a real-world production application
 - Implemented modern mobile UI/UX principles
 - Integrated Firebase backend services
+- Managed full development lifecycle from design to deployment
+
+## Project Structure
+- `lib/` contains the main application source code
+- `assets/` includes images and static resources
 
 ## Status
-Published on the Apple App Store (US region)
+Published on the Apple App Store (US region)  
+Google Play release: in progress
 
 ## Links
 App Store: (link eklenecek)
+Google Play: (link eklenecek)
