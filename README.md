@@ -44,4 +44,4 @@ Google Play release: in progress
 
 ## Links
 App Store: https://apps.apple.com/app/id6754462311 
-Google Play: (link eklenecek)
+
